@@ -1,0 +1,9 @@
+C:\Users\User\RiderProjects\Szamnegyes\SzamnegyesWPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\User\RiderProjects\Szamnegyes\SzamnegyesWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\User\RiderProjects\Szamnegyes\SzamnegyesWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\RiderProjects\Szamnegyes\SzamnegyesWPF\obj\Debug\net8.0-windows\SzamnegyesWPF_MarkupCompile.cache
+C:\Users\User\RiderProjects\Szamnegyes\SzamnegyesWPF\obj\Debug\net8.0-windows\SzamnegyesWPF.g.resources
+C:\Users\User\RiderProjects\Szamnegyes\SzamnegyesWPF\obj\Debug\net8.0-windows\SzamnegyesWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\Szamnegyes\SzamnegyesWPF\obj\Debug\net8.0-windows\SzamnegyesWPF.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\Szamnegyes\SzamnegyesWPF\obj\Debug\net8.0-windows\SzamnegyesWPF.AssemblyInfo.cs
+C:\Users\User\RiderProjects\Szamnegyes\SzamnegyesWPF\obj\Debug\net8.0-windows\SzamnegyesWPF.csproj.CoreCompileInputs.cache

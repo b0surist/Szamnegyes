@@ -1,0 +1,13 @@
+C:\Users\User\RiderProjects\Szamnegyes\Szamnegyes\bin\Debug\net8.0\Szamnegyes.exe
+C:\Users\User\RiderProjects\Szamnegyes\Szamnegyes\bin\Debug\net8.0\Szamnegyes.deps.json
+C:\Users\User\RiderProjects\Szamnegyes\Szamnegyes\bin\Debug\net8.0\Szamnegyes.runtimeconfig.json
+C:\Users\User\RiderProjects\Szamnegyes\Szamnegyes\bin\Debug\net8.0\Szamnegyes.dll
+C:\Users\User\RiderProjects\Szamnegyes\Szamnegyes\obj\Debug\net8.0\Szamnegyes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\Szamnegyes\Szamnegyes\obj\Debug\net8.0\Szamnegyes.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\Szamnegyes\Szamnegyes\obj\Debug\net8.0\Szamnegyes.AssemblyInfo.cs
+C:\Users\User\RiderProjects\Szamnegyes\Szamnegyes\obj\Debug\net8.0\Szamnegyes.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Szamnegyes\Szamnegyes\obj\Debug\net8.0\Szamnegyes.dll
+C:\Users\User\RiderProjects\Szamnegyes\Szamnegyes\obj\Debug\net8.0\refint\Szamnegyes.dll
+C:\Users\User\RiderProjects\Szamnegyes\Szamnegyes\obj\Debug\net8.0\Szamnegyes.pdb
+C:\Users\User\RiderProjects\Szamnegyes\Szamnegyes\obj\Debug\net8.0\Szamnegyes.genruntimeconfig.cache
+C:\Users\User\RiderProjects\Szamnegyes\Szamnegyes\obj\Debug\net8.0\ref\Szamnegyes.dll
